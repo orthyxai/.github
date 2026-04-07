@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/orthyxai/.github/main/assets/logo.png" width="200" height="200" alt="orthyxai logo" />
+</div>
+
+<div align="center">
   <h1>Orthyx AI</h1>
   <h3>Intelligent automation and robotic process optimization. Streamlining operations with advanced AI.</h3>
   
