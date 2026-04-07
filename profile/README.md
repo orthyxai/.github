@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Orthyx AI</h1>
+  <h1>orthyxai</h1>
   <h3>Intelligent automation and robotic process optimization. Streamlining operations with advanced AI.</h3>
   
   <p>
@@ -15,6 +15,7 @@
 ---
 
 ### 🚀 Our Vision
+
 
 At **Orthyx AI**, our core mission is focused on:
 > Intelligent automation and robotic process optimization. Streamlining operations with advanced AI.
@@ -30,5 +31,5 @@ We welcome contributions from everyone. Check out our repositories and get invol
 ---
 
 <div align="center">
-  <small>© 2026 Orthyx AI. Built for the Community.</small>
+  <small>© 2026 orthyxai. Built for the Community.</small>
 </div>
