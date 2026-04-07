@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/orthyxai/.github/main/assets/logo.png" width="200" height="200" alt="orthyxai logo" />
+  <img src="https://raw.githubusercontent.com/orthyxai/.github/main/assets/orthyx_ai_full_screen_logo.jpeg" width="600" alt="orthyxai logo" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
   <h3>Intelligent automation and robotic process optimization. Streamlining operations with advanced AI.</h3>
   
   <p>
-    <a href="https://orthyxai.github.io/orthyxai/">Our Homepage</a>
+    <a href="https://orthyxai.invariantcontinuum.com/">Our Homepage</a>
     <a href="mailto:contact@orthyxai.io">Get In Touch</a>
   </p>
 </div>
